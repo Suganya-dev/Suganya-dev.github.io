@@ -125,13 +125,13 @@ ul, ol {
 	background-color: #FFF;
 }
 .btn-default {
-	color: #25BAD0;
+	color: #edf1f1;
 	background-color: transparent;
 	border: 2px solid #25BAD0;
 	padding: 12px 20px;
 	margin: 0;
 	font-size: 15px;
-	border-radius: 0;
+	border-radius: 20px;
 	text-transform: uppercase;
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
@@ -423,7 +423,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#053740', end
 	padding: 20px 0;
 }
 #contact i.fa {
-	color: #121d1f;
+	color: #f2f6f6;
 	margin-bottom: 10px;
 }
 #contact .text-danger {
