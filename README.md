@@ -15,28 +15,10 @@ Kids users can log into app(Kids dashboard).
 AfterKids users logging in, they can see the Main page with their    
 	Chores or classes  or events  
 
-Technologies Used:
-<img src="https://thumbs.dreamstime.com/b/html-css-js-icon-set-web-development-logo-javascript-programming-symbol-154897294.jpg" height="300px" width="400px"> </img>
-
-![css3]
-
-
-Runnng this Application:
-First, a note about authentication...
-
-This application uses mock authentication which is purely for demonstration purposes. Therefore the login and registration code written here is completely insecure and would never be implemented in a professional application.
-
-Now that we've cleared that up...
-
-Clone this repository and change to the directory in the terminal.
 
 
 
-ERD:
 
-
-
-https://dbdiagram.io/d/5fa30dcc3a78976d7b7a8fb4
 
 
 Created by Suganya
